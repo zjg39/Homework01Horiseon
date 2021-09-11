@@ -1,6 +1,7 @@
 # Horiseon Refactor
 Homework assignment 01 Horiseon webpage
 
+Deployed Page: https://zjg39.github.io/HoriseonRefactor-HW01/
 
 Link to github repository: https://github.com/zjg39/HoriseonRefactor-HW01
 
@@ -23,5 +24,6 @@ The last major section was encased in aside tags because the information and mat
 
 Lastly, all of the images were given descriptive and concise alt tags, should the user ever have trouble loading the page.  The copyright and "made by" texts were encased in a footer tags for obvious reasons.
 
+  ![Image of Horiseon webpage](https://github.com/zjg39/HoriseonRefactor-HW01/blob/main/images/Horiseon.png)
 
 
