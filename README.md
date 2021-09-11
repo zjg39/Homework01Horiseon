@@ -1,4 +1,4 @@
-# Homework01Horiseon
+# Horiseon Refactor
 Homework assignment 01 Horiseon webpage
 
 
